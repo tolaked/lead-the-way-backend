@@ -1,0 +1,9 @@
+.idea/
+node_modules/
+package-lock.json
+npm-debug.log
+Dockerfile
+/.vs
+trash
+yarn-error.log
+.env
