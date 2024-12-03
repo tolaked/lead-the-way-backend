@@ -3,7 +3,6 @@ const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const cors = require('cors')
-const config = require("./api/config/environment");
 const surveyRoutes = require('./api/Routes');
 const expressMiddlewares = require('./api/config/middlewares');
 
